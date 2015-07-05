@@ -10,4 +10,5 @@ Minimalist Nginx image based on Alpine linux (6 MB)
 ## Setup
 
     docker-compose up
+    docker-compose run app npm install
     open http://localhost:3000
